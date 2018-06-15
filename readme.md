@@ -24,7 +24,6 @@
 * [Convolutional Neural Network](https://github.com/arkil/DeepLearningUdacity/tree/master/ConvolutionalNeuralNetwork): Implementing CNN for CIFAR dataset .
 * [Generative Adversatial Network on MNIST](https://github.com/arkil/DeepLearningUdacity/tree/master/GAN_MNIST): Train a simple generative adversarial network on the MNIST dataset.
 * [Deep Convolutional GAN (DCGAN)](https://github.com/arkil/DeepLearningUdacity/tree/master/DCGAN): Implement a DCGAN to generate new images based on the Street View House Numbers (SVHN) dataset.
-* [Intro to TFLearn](https://github.com/udacity/deep-learning/tree/master/intro-to-tflearn): A couple introductions to a high-level library for building neural networks.
 
 ### Projects
 
